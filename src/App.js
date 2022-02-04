@@ -12,7 +12,6 @@ function App() {
           <Meals />
         </main>
       </CartProvider>
-      );
     </div>
   );
 }
